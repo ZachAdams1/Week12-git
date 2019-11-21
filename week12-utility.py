@@ -5,4 +5,4 @@
 def PrintOutput(a):
     print('OUTPUT', a)
 
-b
+c
